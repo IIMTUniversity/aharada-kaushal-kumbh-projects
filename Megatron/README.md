@@ -32,9 +32,15 @@ CropDoc follows a lightweight, decoupled, and highly responsive streaming archit
 - **Ansh** - 9709444143 | remixansh@gmail.com
 - **Manjeet** - 8809289554 | manjeetjay00@gmail.com
 - **Ankit** - 9598387377 | ankityyadav1207@gmail.com
-- **Divyansh** - divyanshtaksalia2004@gmail.com
+- **Divyansh** - 9690282979 | divyanshtaksalia2004@gmail.com
 
 ---
+
+## 👥 Team Github Links
+- **Ansh** - https://github.com/remixansh
+- **Manjeet** - https://github.com/Manjeetjay
+- **Ankit** - https://github.com/BaseAnkit
+- **Divyansh** - https://github.com/divyanshtaksalia
 
 ## 🔗 References & Datasets
 Our Machine Learning models are trained using comprehensive open-source agricultural data:
